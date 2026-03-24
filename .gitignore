@@ -6,3 +6,5 @@
 /ops.json
 /usercache.json
 /whitelist.json
+*.pdf
+*docx
